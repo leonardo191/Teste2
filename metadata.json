@@ -1,0 +1,6 @@
+{
+  "name": "Mapeador de Preços",
+  "description": "Aplicativo 100% offline para registro de preços, histórico e listas de compras preditivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
